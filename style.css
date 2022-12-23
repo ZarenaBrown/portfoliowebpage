@@ -1,0 +1,68 @@
+/* ----------- For all of the page --------------- */ 
+* {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+
+/* ----------- Header and Footer -------------- */
+.text-centered {
+  text-align: center;
+}
+
+.top-bottom {
+  background-color: #6d6875;
+  color:#ffcdb2;
+  padding: 5px;
+}
+
+footer {
+  height: 50px;
+  background-color: #6d6875;
+  padding: 5px;
+}
+
+
+/* ------------- Headers ------------------ */ 
+h2 {
+  color: #49423e;
+  margin-top: 50px;
+}
+
+
+/* ---------------- Main ------------------ */ 
+main {
+  background-color: #f4eee1;
+  overflow: auto;
+}
+
+img {
+  margin-top: 50px;
+}
+
+p, ul, ol {
+  font-size: 15px;
+}
+
+.list-inside {
+  list-style-position: inside;
+}
+
+.bottom-text {
+  margin-bottom: 75px;
+}
+
+ol {
+  padding-bottom: 50px;
+}
+
+div {
+  text-align: left;
+  margin-left: 50px;
+}
+
+
+/* ------------- Contact Me Links --------------- */ 
+a:link {color: blue;}
+a:visited {color: darkred;}
+a:hover {color: green;}
+a:active {color: pink;}
